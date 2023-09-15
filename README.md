@@ -1,7 +1,22 @@
 # EX-no-5-Implement-Auto-Regression-Model-in-Python
 ## AIM:
 To Implement Auto Regression Model in Python
-## STEPS:
+## ALGORITHM:
+### STEP 1:
+
+Import the necessary packages
+### STEP 2:
+
+
+### STEP 3:
+
+Implement the correlation using necessary logic and obtain the results
+### STEP 4:
+
+Store the results in an array
+### STEP 5:
+
+Represent the result in graphical representation as given below.
 ## PROGRAM:
 ```
 !pip install statsmodels --upgrade
@@ -97,3 +112,4 @@ print(pred_future)
 
 
 ## RESULT:
+Thus we have successfully implemented the Auto Regression Model  using Python program.
