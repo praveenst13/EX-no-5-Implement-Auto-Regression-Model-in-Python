@@ -7,13 +7,13 @@ To Implement Auto Regression Model in Python
 Import the necessary packages
 ### STEP 2:
 
-
+Plot the Dataset using matplotlib
 ### STEP 3:
 
-Implement the correlation using necessary logic and obtain the results
+Implement the adfuller and plot_pacf,plot_acf
 ### STEP 4:
 
-Store the results in an array
+Train your model and taking test value from dataset
 ### STEP 5:
 
 Represent the result in graphical representation as given below.
